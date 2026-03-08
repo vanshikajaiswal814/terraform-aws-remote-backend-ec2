@@ -1,0 +1,16 @@
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+terraform.tfvars
+
+# Terraform lock
+.terraform.lock.hcl
+
+# OS files
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
